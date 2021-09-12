@@ -2,7 +2,7 @@
 
 👧🏻 This is **KHUSHI** 😃.
 
-👩🏻‍💻 I'm A Web Developer and Software Developer Enthusiast.
+👩🏻‍💻 I'm A Web and Software Development Enthusiast.
 
 🌏 I Hail From **Khanna, Punjab, India**.
 
