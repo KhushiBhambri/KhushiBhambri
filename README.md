@@ -18,9 +18,9 @@
 [![Portfolio Website](https://img.shields.io/badge/Khushi-informational?style=for-the-badge&logo=google-chrome&logoColor=white&color=4885ed)](https://github.com/KhushiBhambri)
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=khushibhambri&count_private=true&show_icons=true&theme=algolia&line_height=30" alt="Khushi Bhambri Github stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushibhambri&theme=algolia&card_height=30">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushibhambri&langs_count=10&layout=compact&theme=algolia&card_width=445" >
+  <img src = "https://github-readme-stats.vercel.app/api?username=khushibhambri&count_private=true&show_icons=true&theme=vision-friendly-dark&line_height=30" alt="Khushi Bhambri Github stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushibhambri&theme=vision-friendly-dark&card_height=30">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushibhambri&langs_count=10&layout=compact&theme=vision-friendly-dark&card_width=445" >
 </p>
 
 
