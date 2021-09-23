@@ -1,6 +1,8 @@
 
-<center> HELLO GEEKS! </center>
-=======
+<center>
+  HELLO GEEKS!
+</center>
+
 👧🏻 This is **KHUSHI** 😃.
 
 👩🏻‍💻 I'm A Web and Software Development Enthusiast.
@@ -23,6 +25,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushibhambri&theme=algolia&card_height=30">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushibhambri&langs_count=10&layout=compact&theme=algolia&card_width=445" >
 </p>
->>>>>>> parent of 494d767 (Update README.md)
 
 
