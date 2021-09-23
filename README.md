@@ -1,7 +1,7 @@
 
-<center>
-  HELLO GEEKS!
-</center>
+
+# Hello Geeks!
+
 
 👧🏻 This is **KHUSHI** 😃.
 
