@@ -1,9 +1,9 @@
 
 
-# Hello Geeks!
 
+ <h1 align="center"> Hello Geeks! </h1>
 
-👧🏻 This is **KHUSHI** 😃.
+#### 👧🏻 This is **KHUSHI** 😃.
 
 👩🏻‍💻 I'm A Web and Software Development Enthusiast.
 
@@ -13,7 +13,7 @@
 
 📄 Pursuing B.Tech In **Computer Science and Engineering**.
 
-🔗 you can connect with me at:
+### 🔗 you can connect with me at:
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0077b5)](https://www.linkedin.com/in/khushibhambri/)
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=0077b5)](https://www.instagram.com/)
