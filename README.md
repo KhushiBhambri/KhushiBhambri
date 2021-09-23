@@ -1,5 +1,5 @@
 
-<<<<<<< HEAD
+<center> HELLO GEEKS! </center>
 =======
 👧🏻 This is **KHUSHI** 😃.
 
