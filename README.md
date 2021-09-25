@@ -30,14 +30,14 @@
 <tr>
   <td> <h4>🔗 you can connect with me at:</h4>
 
-[<img src="contact-icons/linkedin.png" height="50" width="50">](https://www.linkedin.com/in/khushibhambri/)
-[<img src="contact-icons/github.png" height="50" width="50">](https://github.com/KhushiBhambri)
-[<img src="contact-icons/google-chrome.png" height="50" width="50">](https://khushibhambri.netlify.app/)
-[<img src="contact-icons/gmail.png" height="50" width="50">](mailto:bhambrikhushi4@gmail.com)
-[<img src="contact-icons/instagram.png" height="50" width="50">](https://www.instagram.com/)
-[<img src="contact-icons/twitter.png" height="50" width="50">](https://twitter.com/Khushi05680098)
-[<img src="contact-icons/medium.png" height="50" width="50">](https://medium.com/@KhushiBhambri)
-<!-- [<img src="contact-icons/discord.png" height="50" width="50">](https://discord.com) -->
+[<img src="contact-Icons/linkedin.png" height="50" width="50">](https://www.linkedin.com/in/khushibhambri/)
+[<img src="contact-Icons/github.png" height="50" width="50">](https://github.com/KhushiBhambri)
+[<img src="contact-Icons/google-chrome.png" height="50" width="50">](https://khushibhambri.netlify.app/)
+[<img src="contact-Icons/gmail.png" height="50" width="50">](mailto:bhambrikhushi4@gmail.com)
+[<img src="contact-Icons/instagram.png" height="50" width="50">](https://www.instagram.com/)
+[<img src="contact-Icons/twitter.png" height="50" width="50">](https://twitter.com/Khushi05680098)
+[<img src="contact-Icons/medium.png" height="50" width="50">](https://medium.com/@KhushiBhambri)
+<!-- [<img src="contact-Icons/discord.png" height="50" width="50">](https://discord.com) -->
  <h4>👩🏻‍💻 Profile Visitors:</h4>
     
 ![Visitor Count](https://profile-counter.glitch.me/khushibhambri/count.svg)
