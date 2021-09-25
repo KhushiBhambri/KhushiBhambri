@@ -31,7 +31,7 @@
   
 
 <tr>
-  <td> <h5>🔗 you can connect with me at:</h5>
+  <td> <h4>🔗 you can connect with me at:</h4>
  
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0077b5)](https://www.linkedin.com/in/khushibhambri/)
 [![Portfolio Website](https://img.shields.io/badge/Khushi-informational?style=for-the-badge&logo=google-chrome&logoColor=white&color=lightgrey)](https://github.com/KhushiBhambri)
@@ -41,7 +41,7 @@
 
   
 </td>
-  <td><h5>Profile Visitors:</h5>
+  <td><h4>Profile Visitors:</h4>
     
 ![Visitor Count](https://profile-counter.glitch.me/khushibhambri/count.svg)
 </td>
@@ -53,11 +53,7 @@
   <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=khushibhambri&theme=algolia&card_height=30">  
   </td>
 </tr> 
-  
-  
- </table>
-<p align="center">
 
-</p>
+ </table>
 
 
