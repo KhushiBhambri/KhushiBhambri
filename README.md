@@ -16,14 +16,15 @@
 </tr>
 
 <tr>
-    <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushibhambri&langs_count=10&layout=compact&theme=algolia&card_width=445" aligh="center">
-    </td>
+   
   <td><p><h4>📁 Open Repositories to contribute:</h4>
   
   1. [Leetcode Solutions](https://github.com/KhushiBhambri/Leetcode-Solutions) C++ Code
   </p>
   </td>
+   <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushibhambri&langs_count=10&layout=compact&theme=algolia&card_width=445" aligh="center">
+    </td>
     
 </tr>
 
