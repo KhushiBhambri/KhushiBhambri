@@ -220,12 +220,54 @@ a:hover {
   /* width:22em; */
 }
 
-/* .card-img-top{
-    height:180px;
-    width:250px;
-} */
-#projects .card-header {
+#projects .card-p {
+  border: 2px solid#b0b8b4ff;
+  box-shadow: 0px 4px 8px #6c6d6e;
+  position: relative;
+  background: none;
+  border-radius: 20px;
+  height: 350px;
+  width: auto;
+  background-color: antiquewhite;
   background: linear-gradient(#9ea8e0, rgb(216, 230, 238));
+  /* width:19em; */
+  margin: 0px auto;
+}
+.card-p .card-body {
+  border-radius: 20px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  visibility: hidden;
+  opacity: 0;
+}
+
+.card-p:hover .card-body {
+  visibility: visible;
+  opacity: 100%;
+}
+
+#projects .card-img-top {
+  box-shadow: 0px 4px 8px #6c6d6e;
+  /* margin-bottom: 0px; */
+  height: 80%;
+  max-width: 100%;
+  width: auto;
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+
+#projects .card-header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  /* background: linear-gradient(#9ea8e0, rgb(216, 230, 238)); */
+}
+#projects .card-header a {
+  color: rgb(2, 24, 24) !important;
 }
 #projects .card-body {
   background: linear-gradient(#9ea8e0, rgb(216, 230, 238));
