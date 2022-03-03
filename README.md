@@ -31,11 +31,10 @@
 <tr>
   <td> <h4>🔗 you can connect with me at:</h4>
 
-    
+ <!-- [<img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/>](https://discord.com)
+[<img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/>](https://facebook.com) -->
 [<img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/>](https://www.instagram.com/)
 [<img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/>](https://twitter.com/Khushi05680098)
-<!-- [<img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/>](https://discord.com)
-[<img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/>](https://facebook.com) -->
 [<img src="https://img.icons8.com/fluency/48/000000/github.png"/>](https://github.com/KhushiBhambri)
 [<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](https://www.linkedin.com/in/khushibhambri/)
 [<img src="https://img.icons8.com/fluency/50/000000/gmail-new.png"/>](mailto:khushibhambri44@gmail.com)
