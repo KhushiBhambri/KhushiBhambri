@@ -66,7 +66,7 @@
   
 &ensp;![HEROKU](https://img.icons8.com/color/48/000000/heroku.png 'Heroku')
 &ensp;![NETLIFY](https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-color-tal-revivo.png 'Netlify')
-&ensp;![GITHUB](<img src="https://img.icons8.com/color/48/000000/github--v1.png"/> 'Github')
+&ensp;![GITHUB](https://img.icons8.com/color/48/000000/github--v1.png 'Github')
 <br>
 Heroku
 &ensp;Netlify
