@@ -60,9 +60,9 @@
 &ensp; &ensp;C
 &ensp; &ensp; &ensp;C++
 &ensp; &ensp; Git
-&ensp; &ensp; Java
+&ensp; &ensp;Java
 &ensp; &ensp;MySQL
-&ensp; Python
+&ensp;Python
 <br>
 
 </td>
