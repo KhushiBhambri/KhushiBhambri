@@ -56,7 +56,7 @@
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png 'Java')
 ![MYSQL](https://img.icons8.com/color/48/000000/mysql-logo.png 'MYSQL')
 ![PYTHON](https://img.icons8.com/color/48/000000/python.png 'PYTHON ')
-![HEROKU](<img src="https://img.icons8.com/color/48/000000/heroku.png"/>)
+![HEROKU](https://img.icons8.com/color/48/000000/heroku.png>)
 <br>
 &ensp; &ensp;C
 &ensp; &ensp; &ensp;C++
