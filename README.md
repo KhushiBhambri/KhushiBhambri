@@ -60,7 +60,7 @@
 &ensp; &ensp;C
 &ensp; &ensp; &ensp;C++
 &ensp; &ensp; Git
-&ensp; &ensp; &ensp;Java
+&ensp; &ensp; Java
 &ensp; &ensp;MySQL
 &ensp; Python
 <br>
