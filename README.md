@@ -56,7 +56,10 @@
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png 'Java')
 ![MYSQL](https://img.icons8.com/color/48/000000/mysql-logo.png 'MYSQL')
 &ensp;![PYTHON](https://img.icons8.com/color/48/000000/python.png 'PYTHON ')
-&ensp;![HEROKU](https://img.icons8.com/color/48/000000/heroku.png)
+
+&ensp;![HEROKU](https://img.icons8.com/color/48/000000/heroku.png 'Heroku')
+&ensp;![HEROKU](https://img.icons8.com/color/48/000000/heroku.png 'Heroku')
+&ensp;![HEROKU](https://img.icons8.com/color/48/000000/heroku.png 'Heroku')
 <br>
 &ensp; &ensp;C
 &ensp; &ensp; &ensp;C++
@@ -64,7 +67,11 @@
 &ensp; &ensp;Java
 &ensp; &ensp;MySQL
 &ensp;Python
-&ensp;Heroku
+  
+Heroku
+&ensp;Python
+&ensp;Python
+  
 <br>
 
 </td>
