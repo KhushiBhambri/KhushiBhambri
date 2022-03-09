@@ -90,5 +90,5 @@ Heroku
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0077b5)](https://www.linkedin.com/in/khushibhambri/)
 [![Portfolio Website](https://img.shields.io/badge/Khushi-informational?style=for-the-badge&logo=google-chrome&logoColor=white&color=lightgrey)](https://github.com/KhushiBhambri)
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=9cf)](https://www.instagram.com/)
-[![My Blogs](https://img.shields.io/badge/My Blogs-informational?style=for-the-badge&logo=Chrome&logoColor=white&color=9cf)](https://kb-blogposts.netlify.app/)
+[![My Blogs](https://img.shields.io/badge/My-Blogs-informational?style=for-the-badge&logo=Chrome&logoColor=white&color=tomato)](https://kb-blogposts.netlify.app/)
 [![GMAIL](https://img.shields.io/badge/Gmail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=D44638)](mailto:bhambrikhushi4@gmail.com)
